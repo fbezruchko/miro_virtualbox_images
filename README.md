@@ -10,4 +10,4 @@ https://drive.google.com/open?id=1FJCanGfoG3vLrBmaxUT0cAjKD0_BjKRR
 # Content
 "xubuntu_16.04_x86_ros_kinetic.zip" - Image based on Xubuntu 16.04 32-bit (April, 2019) with ROS Kinetic (ros-desktop-full), gstreamer1.0, OpenCV 4.0.0, Python 3 (+ virtual environment "cv").
 
-
+sudo password: 123
